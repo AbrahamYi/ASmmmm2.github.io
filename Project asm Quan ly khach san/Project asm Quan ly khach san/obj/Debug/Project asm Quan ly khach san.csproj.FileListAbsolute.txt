@@ -1,0 +1,7 @@
+D:\C#\Lab4\Project asm Quan ly khach san\Project asm Quan ly khach san\bin\Debug\Project_asm_Quan_ly_khach_san.exe
+D:\C#\Lab4\Project asm Quan ly khach san\Project asm Quan ly khach san\bin\Debug\Project_asm_Quan_ly_khach_san.pdb
+D:\C#\Lab4\Project asm Quan ly khach san\Project asm Quan ly khach san\obj\Debug\Project asm Quan ly khach san.csproj.AssemblyReference.cache
+D:\C#\Lab4\Project asm Quan ly khach san\Project asm Quan ly khach san\obj\Debug\Project asm Quan ly khach san.csproj.SuggestedBindingRedirects.cache
+D:\C#\Lab4\Project asm Quan ly khach san\Project asm Quan ly khach san\obj\Debug\Project asm Quan ly khach san.csproj.CoreCompileInputs.cache
+D:\C#\Lab4\Project asm Quan ly khach san\Project asm Quan ly khach san\obj\Debug\Project_asm_Quan_ly_khach_san.exe
+D:\C#\Lab4\Project asm Quan ly khach san\Project asm Quan ly khach san\obj\Debug\Project_asm_Quan_ly_khach_san.pdb
